@@ -30,26 +30,6 @@ Embedded Kafka
 
 MockRestServiceServer
 
-Running the Project
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/soulviper18/MidasCore---Project.git
-cd MidasCore---Project
-Build the project:
-
-bash
-Copy
-Edit
-mvn clean install
-Run the application:
-
-bash
-Copy
-Edit
-mvn spring-boot:run
 📂 Project Structure
 bash
 Copy
@@ -85,4 +65,5 @@ Backend development with Java & Spring Boot
 Kafka event-driven systems
 
 REST API testing & mocking
+
 
